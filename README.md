@@ -1,6 +1,6 @@
 # grams
 
-download images from instagram profiles
+your personal instagram stalker
 
 ## installation
 
